@@ -14,3 +14,18 @@ dependencies:
   - thinc
   - seaborn
   - tqdm
+  - requests
+  - bokeh
+  - altair
+  - geopandas
+  - plotly
+  - ggplot
+  - fiona
+  - geoplotlib
+  - cufflinks
+  - xlrd
+  - folium
+  - pyecharts
+  - cutecharts
+  
+  
