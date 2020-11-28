@@ -14,13 +14,6 @@ dependencies:
   - thinc
   - seaborn
   - tqdm
-  - requests
-  - bokeh
-  - altair
-  - geopandas
-  - plotly
-  - ggplot
-  - fiona
- 
+  - basemap
   
   
