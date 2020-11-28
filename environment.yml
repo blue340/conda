@@ -14,5 +14,3 @@ dependencies:
   - thinc
   - seaborn
   - tqdm
-  - sklearn
- 
