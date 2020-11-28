@@ -26,15 +26,4 @@ dependencies:
   - bokeh
   - altair
   - geopandas
-  - jupyter_contrib_nbextensions
-  - tensorflow
-  - opencv-python
-  - ggplot
-  - folium
-  - fiona
-  - cutecharts
-  - plotly
-  - xlrd
-  - geoplotlib
-  - cufflinks
-  - basemap
+ 
