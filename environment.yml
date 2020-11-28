@@ -21,11 +21,6 @@ dependencies:
   - plotly
   - ggplot
   - fiona
-  - geoplotlib
-  - cufflinks
-  - xlrd
-  - folium
-  - pyecharts
-  - cutecharts
+ 
   
   
